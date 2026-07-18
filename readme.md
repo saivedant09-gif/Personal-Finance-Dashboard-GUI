@@ -5,7 +5,7 @@ A modern Personal Finance Dashboard built using **Python**, **Streamlit**, **SQL
 ---
 
 ## 📸 Preview
-siuuuuuuuuuuuuuuuuuuuuuuuu
+
 > Add screenshots of your application here after deployment.
 
 | Dashboard | Analytics |
