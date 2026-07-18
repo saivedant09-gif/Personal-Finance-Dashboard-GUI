@@ -2,17 +2,7 @@
 
 A modern Personal Finance Dashboard built using **Python**, **Streamlit**, **SQLite**, **Pandas**, and **Plotly**. The application helps users manage their daily financial transactions, visualize spending patterns, and track their overall financial health through an interactive web interface.
 
----
-
-## 📸 Preview
-
-> Add screenshots of your application here after deployment.
-
-| Dashboard | Analytics |
-|-----------|-----------|
-| c:\Users\R SAI VEDANT\OneDrive\Pictures\Screenshots\Screenshot 2026-07-19 000451.png| *(Screenshot)* |c:\Users\R SAI VEDANT\OneDrive\Pictures\Screenshots\Screenshot 2026-07-19 001314.png
-
----
+Streamlit application: https://personal-finance-dashboard-gui-3ays59zfgbxsnh52qxsdjn.streamlit.app/
 
 ## ✨ Features
 
@@ -157,9 +147,9 @@ B.Tech Computer Science (Data Science)
 
 VIT Vellore
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/saivedant09-gif
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/saivedant09/
 
 ---
 
