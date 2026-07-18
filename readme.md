@@ -10,7 +10,7 @@ A modern Personal Finance Dashboard built using **Python**, **Streamlit**, **SQL
 
 | Dashboard | Analytics |
 |-----------|-----------|
-| *(Screenshot)* | *(Screenshot)* |
+| c:\Users\R SAI VEDANT\OneDrive\Pictures\Screenshots\Screenshot 2026-07-19 000451.png| *(Screenshot)* |c:\Users\R SAI VEDANT\OneDrive\Pictures\Screenshots\Screenshot 2026-07-19 001314.png
 
 ---
 
